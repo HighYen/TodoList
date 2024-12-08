@@ -17,7 +17,7 @@ Mỗi công việc được hiển thị với các nút để thực hiện cá
 1. **Tải xuống mã nguồn**:
    - Clone repo hoặc tải mã nguồn về máy tính:
      ```bash
-     git clone <repository-url>
+     git clone https://github.com/HighYen/TodoList.git
      ```
      hoặc tải file ZIP và giải nén.
 
